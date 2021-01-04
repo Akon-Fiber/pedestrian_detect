@@ -1,0 +1,4 @@
+opencv-python
+numpy>=1.16
+torch>=0.4
+torchvision>=0.2
