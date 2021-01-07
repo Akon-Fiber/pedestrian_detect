@@ -44,7 +44,7 @@ def draw_result(save_path, img, detect_result):
 
 if __name__ == "__main__":
 
-    model_path = r"./pedestrian_head_detect_v0.0.1_52374f84c19627bd505c411c771befa1.zip"
+    model_path = r"./pedestrian_head_detect_v0.0.1_52374f84c19627bd505c411c771befa1.pt"
     gpu_ids = [3]
     img_dir = r"./images"
     save_dir = r"./result"
